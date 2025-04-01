@@ -9,8 +9,11 @@ DESC
 
   s.homepage         = 'https://github.com/YatesLee/ChatBotSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'lee' => '787264741qwe@gmail.com' }  # 作者信息
-  s.source           = { :git => 'https://github.com/YatesLee/ChatBotSDK.git', :tag => '0.1.0' }  # Git 仓库地址和 Tag
+  s.author           = { 'lee' => '787264741qwe@gmail.com' }  
+   s.description      = <<-DESC
+   Not for public use.
+   Common APIs for internal Sentry usage.
+                        DESC
 
   s.ios.deployment_target = '12.0'
   s.source_files     = 'Classes/**/*.{h,m}'
