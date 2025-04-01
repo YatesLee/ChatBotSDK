@@ -3,7 +3,6 @@ Pod::Spec.new do |s|
   s.version          = '0.1.0'                  
   s.summary          = 'A simple chatbot SDK for iOS.'  
   s.description      = <<-DESC
-                       ChatBotSDK provides a simple way to integrate a chatbot into your iOS app using WKWebView.
                        DESC                  
 
   s.homepage         = 'https://github.com/YatesLee/ChatBotSDK'  
