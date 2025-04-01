@@ -14,7 +14,7 @@ DESC
    Not for public use.
    Common APIs for internal Sentry usage.
                         DESC
-
+  s.source           = { :git => 'https://github.com/YatesLee/ChatBotSDK.git', :tag => '0.1.0' }
   s.ios.deployment_target = '12.0'
   s.source_files     = 'Classes/**/*.{h,m}'
   s.frameworks       = 'UIKit', 'WebKit'
